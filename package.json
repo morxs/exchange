@@ -1,0 +1,13 @@
+{
+  "name": "nockmarket",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "jQuery": "1.7.4",
+    "mocha": "1.3.0",
+    "should": "1.0.0"
+  }
+}
